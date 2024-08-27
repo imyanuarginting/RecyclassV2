@@ -1,6 +1,6 @@
 # Recyclass: Recycle Classification
 
-"your guide to recycling right"
+"Your guide to recycling right"
 
 ## Background
 
