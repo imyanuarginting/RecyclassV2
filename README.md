@@ -1,4 +1,4 @@
-# recyclass
+# Recyclass: Recycle Classification
 
 A new Flutter project.
 
