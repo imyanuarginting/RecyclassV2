@@ -1,6 +1,6 @@
 # Recyclass: Recycle Classification
 
-A new Flutter project.
+"your guide to recycling right"
 
 ## Getting Started
 
